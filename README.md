@@ -17,7 +17,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  arabic_string_extractor: ^1.0.0
+  arabic_string_extractor: ^1.0.1
 ```
 
 Then run:
