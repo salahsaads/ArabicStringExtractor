@@ -1,5 +1,7 @@
 name: arabic_string_extractor
-description: "A new Flutter package project."
+description:
+  "A Dart and Flutter package that extracts Arabic text from any given string or file.
+  Useful for localization and text processing tasks."
 version: 0.0.1
 homepage: https://github.com/salahsaads/ArabicStringExtractor
 repository: https://github.com/salahsaads/ArabicStringExtractor
